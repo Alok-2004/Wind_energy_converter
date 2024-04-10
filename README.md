@@ -7,10 +7,10 @@ This project aims to predict the energy output of wind energy converters using m
 1. **UCI Machine Learning Repository Dataset:**  
    - **Dataset Name:** Wave Energy Converters Data Set  
    - **Dataset URL:** [UCI Machine Learning Repository - Wave Energy Converters Data Set](https://archive.ics.uci.edu/dataset/494/wave+energy+converters)
-   - **This might not work because I will be some outdated modules.
+   - **Code might not work because I will be some outdated modules.
 
 2. **Uploaded Dataset:**  
-   - This dataset will be uploaded separately and contains [insert description of the dataset].
+   - This dataset will be uploaded separately and contains, just the preprocessed version of previous one.
 
 ## Files
 - **Data Processing Notebook:** Jupyter notebook for data preprocessing, cleaning, and feature engineering.
