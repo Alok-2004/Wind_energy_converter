@@ -23,16 +23,3 @@ This project aims to predict the energy output of wind energy converters using m
 2. **Model Training:** Use the model training notebook to train machine learning models on the prepared datasets.
 3. **Evaluation:** Use the evaluation notebook to evaluate the performance of trained models and make predictions on new data.
 
-## Requirements
-- Python 3.x
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Scikit-learn
-- [insert any other libraries or dependencies]
-
-## License
-[insert license information]
-
-## Acknowledgements
-- [insert any acknowledgements or credits]
